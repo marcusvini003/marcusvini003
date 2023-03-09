@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Salve
-marcus
+marcus 
 ===========
 [o melhor site de markdown do mundo]
 ==========
